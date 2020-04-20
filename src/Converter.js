@@ -81,10 +81,10 @@ const convert = (scale, value, precision=4) => {
 
   const inCelsius =
     scale === "Celsius"
-      ? round(Number(value), precision)
-      : round(scales[scale].toC(Number(value)), precision);
+      ? Number(value)
+      : scales[scale].toC(Number(value))
   const values = {
-    Celsius: inCelsius,
+    Celsius: round(inCelsius, precision),
   };
 
   values[scale] = value;
