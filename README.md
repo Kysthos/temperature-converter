@@ -1,0 +1,1 @@
+An exercise in React: temperature calculator.
