@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/temperature-converter/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/temperature-converter/static/js/main.e52142e4.chunk.js",
-    "main.js.map": "/temperature-converter/static/js/main.e52142e4.chunk.js.map",
+    "main.js": "/temperature-converter/static/js/main.53733496.chunk.js",
+    "main.js.map": "/temperature-converter/static/js/main.53733496.chunk.js.map",
     "runtime-main.js": "/temperature-converter/static/js/runtime-main.92c7d47b.js",
     "runtime-main.js.map": "/temperature-converter/static/js/runtime-main.92c7d47b.js.map",
     "static/js/2.6b8fa38a.chunk.js": "/temperature-converter/static/js/2.6b8fa38a.chunk.js",
     "static/js/2.6b8fa38a.chunk.js.map": "/temperature-converter/static/js/2.6b8fa38a.chunk.js.map",
     "index.html": "/temperature-converter/index.html",
-    "precache-manifest.2dcda7e31d92b440af575a37013c3de6.js": "/temperature-converter/precache-manifest.2dcda7e31d92b440af575a37013c3de6.js",
+    "precache-manifest.06257a111713892c1786518a55b76f9f.js": "/temperature-converter/precache-manifest.06257a111713892c1786518a55b76f9f.js",
     "service-worker.js": "/temperature-converter/service-worker.js",
     "static/css/main.5ecd60fb.chunk.css.map": "/temperature-converter/static/css/main.5ecd60fb.chunk.css.map",
     "static/js/2.6b8fa38a.chunk.js.LICENSE.txt": "/temperature-converter/static/js/2.6b8fa38a.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.92c7d47b.js",
     "static/js/2.6b8fa38a.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.e52142e4.chunk.js"
+    "static/js/main.53733496.chunk.js"
   ]
 }
